@@ -1,6 +1,6 @@
 Name:		texlive-endnotes-hy
 Version:	54758
-Release:	1
+Release:	2
 Summary:	Patches the endnotes package to create hypertext links to the correct anchors
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/endnotes-hy
