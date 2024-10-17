@@ -3,7 +3,7 @@ Version:	54758
 Release:	2
 Summary:	Patches the endnotes package to create hypertext links to the correct anchors
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/endnotes-hy
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/endnotes-hy
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/endnotes-hy.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/endnotes-hy.doc.r%{version}.tar.xz
